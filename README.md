@@ -37,7 +37,7 @@ Esta é a primeira versão, com o CRUD (Create, Read, Update, Delete) da entidad
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/J-Caeta/gerenciador-de-biblioteca-console.git](https://github.com/J-Caeta/gerenciador-de-biblioteca-console.git)
+    git clone https://github.com/J-Caeta/gerenciador-de-biblioteca-console.git
     ```
 2.  Navegue até a pasta do projeto:
     ```bash
