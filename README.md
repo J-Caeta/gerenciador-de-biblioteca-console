@@ -30,7 +30,7 @@ Esta é a primeira versão, com o CRUD (Create, Read, Update, Delete) da entidad
 -   **Linguagem:** C#
 -   **Plataforma:** .NET
 -   **Ferramentas:** Visual Studio Code, Git, GitHub
-
+ 
 ---
 
 ### 🔧 Como Executar
