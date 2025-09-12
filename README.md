@@ -7,7 +7,7 @@
 Este é um projeto de estudo desenvolvido como parte da mentoria START do **@Luis Dev**. O objetivo é construir um sistema de gerenciamento de biblioteca totalmente funcional via console, aplicando os conceitos fundamentais de C#, .NET e Programação Orientada a Objetos.
 
 Esta é a primeira versão, com o CRUD (Create, Read, Update, Delete) da entidade `Livro` já implementado.
-
+ 
 ---
 
 ### ✅ Funcionalidades Implementadas (Versão 1.0)
